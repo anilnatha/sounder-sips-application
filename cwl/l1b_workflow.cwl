@@ -9,7 +9,6 @@ cwlVersion: v1.0
 # * Define the requirements for runtime environment
 #
 # The Workflow class steps field orchestrates the execution of the application command line and retrieves all the outputs of the processing steps.
-#TEST TEST TEST
 
 class: Workflow
 id: main
