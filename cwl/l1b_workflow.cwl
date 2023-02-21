@@ -7,7 +7,7 @@ cwlVersion: v1.0
 # * Define the Application parameters
 # * Define the Application Design Pattern
 # * Define the requirements for runtime environment
-#
+#TEST
 # The Workflow class steps field orchestrates the execution of the application command line and retrieves all the outputs of the processing steps.
 
 class: Workflow
